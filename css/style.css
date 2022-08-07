@@ -135,7 +135,7 @@ h1, h2, h3, h4, h5, h6, ul{
 
 .main .baslik button{
     background: rgba(255,255,255,1);
-    display: 
+    display: block
 }
 
 .main .baslik h1{
@@ -549,7 +549,7 @@ background-color: #7c838b;
 
 
 
-@media only screen and (max-width:900px){
+@media only screen and (max-width:760px){
     .yazi{
         flex-direction: column;
     }
